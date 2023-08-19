@@ -3,11 +3,11 @@
 - AudiusSync is a web application that allows users to sync and share their favorite tracks seamlessly with friends. Whether you're enjoying music together during a road trip or chilling at home, AudiusSync keeps everyone tuned in to the same beats.
 - This project leverages the Audius SDK to integrate and play music from the Audius platform, offering a wide range of tracks for your listening pleasure.
 
-Desktop:
+- Desktop Version Showcase:
 
 ![Screenshot (1941)](https://github.com/nauriculus/AudiusSync/assets/24634581/ffdfe146-ffed-4898-a0e7-abaeb9fe35b8)
 
-Mobile: 
+Mobile Version Showcase:
 
 ![Screenshot (1943)](https://github.com/nauriculus/AudiusSync/assets/24634581/656c5ed7-3d25-43d1-89d1-f8cbf1aeef96)
 
