@@ -1,0 +1,36 @@
+/*** 6.0 - Notifications ***/
+
+.notification {
+  display: flex;
+  align-items: center;
+  max-width: 60em;
+  margin: 0 auto;
+  background: var(--bd-color-accent-bright);
+  color: white;
+  text-align: left;
+}
+
+.notification-error {
+  background-color: #f44336;
+  color: white;
+}
+
+.notification-success {
+  display: inline-flex;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: #4caf50;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.notification-success > .icon {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.notification-success > .message {
+  font-size: 1rem;
+}
+

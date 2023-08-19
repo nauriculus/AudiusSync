@@ -1,0 +1,60 @@
+body {
+  width: 100%;
+  margin: 0;
+  font-family: var(--bd-font-body-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000000fa;
+  /* background-position: 0 400px; */
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: #ffffff;
+}
+
+.content-wrapper {
+  margin: 0 auto;
+  padding: 0 1rem;
+  max-width: 88em;
+}
+
+.lore-container {
+  position: relative;
+  padding-bottom: 500px;
+  background-position: center center;
+  background-size: cover;
+}
+
+.lore-container-img {
+  position: absolute;
+  bottom: 0;
+  max-width: 90%;
+  max-height: 550px;
+}
+
+@media all and (min-width: 768px) {
+  body {
+    background-position: top;
+  }
+
+  .menu-trigger,
+  .nav-main--menu-label {
+    display: none;
+  }
+
+  .lore-container-img {
+    position: absolute;
+    bottom: 0;
+    right: 4rem;
+    max-height: 550px;
+  }
+}
+
+@media all and (min-width: 1024px) {
+  .container {
+    width: auto;
+    max-width: 88em;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 3rem;
+  }
+}
