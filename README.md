@@ -1,6 +1,6 @@
-#AudiusSync
+# AudiusSync
 
--AudiusSync is a web application that allows users to sync and share their favorite tracks seamlessly with friends. Whether you're enjoying music together during a road trip or chilling at home, AudiusSync keeps everyone tuned in to the same beats.
+- AudiusSync is a web application that allows users to sync and share their favorite tracks seamlessly with friends. Whether you're enjoying music together during a road trip or chilling at home, AudiusSync keeps everyone tuned in to the same beats.
 - This project leverages the Audius SDK to integrate and play music from the Audius platform, offering a wide range of tracks for your listening pleasure.
 > This project was developed for the Audius Track of the Opos Hackathon.
 
