@@ -4,9 +4,11 @@
 - This project leverages the Audius SDK to integrate and play music from the Audius platform, offering a wide range of tracks for your listening pleasure.
 
 Desktop:
+
 ![Screenshot (1941)](https://github.com/nauriculus/AudiusSync/assets/24634581/ffdfe146-ffed-4898-a0e7-abaeb9fe35b8)
 
 Mobile: 
+
 ![Screenshot (1943)](https://github.com/nauriculus/AudiusSync/assets/24634581/656c5ed7-3d25-43d1-89d1-f8cbf1aeef96)
 
 > This project was developed for the Audius Track of the Solana Opos Hackathon.
