@@ -6,7 +6,7 @@
 
 Desktop Version Showcase:
 
-![Screenshot (1937)](https://github.com/nauriculus/AudiusSync/assets/24634581/6bd83bc3-3112-4e04-89b7-18d1f880cb17)
+![Screenshot (1941)](https://github.com/nauriculus/AudiusSync/assets/24634581/f1864342-d124-4aca-9a0f-7ddfcedc3feb)
 
 Mobile Version Showcase:
 
