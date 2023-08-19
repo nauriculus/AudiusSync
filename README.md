@@ -31,13 +31,6 @@ Mobile Version Showcase:
 4. Access the app in your browser at `http://localhost:3000`
 
 ## API Endpoints
-
-- `/getInfoByTrackId`: Get track details by providing a track ID.
-- `/getCurrentSongLink`: Get the link to the currently playing song.
-- `/getUpcomingSongLink`: Get the link to the upcoming song in the queue.
-- `/newSongRequest`: Add a new song to the queue for playback.
-
-## API Endpoints from the RestAPI
 - `/getInfoByTrackId`: Get track details by providing a track ID.
 - `/getCurrentSongLink`: Get the link to the currently playing song.
 - `/getUpcomingSongLink`: Get the link to the upcoming song in the queue.
